@@ -8,7 +8,7 @@ public class findMissing268 {
     }
 
  
-        public static int missingNumber(int[] arr) {
+    public static int missingNumber(int[] arr) {
         sort(arr);
         int n = arr.length;
            for(int i =0; i< arr.length; i++){
@@ -17,7 +17,7 @@ public class findMissing268 {
                 }
             }
            return n;
-        }
+     }
     
         public static void sort(int arr[]){
              int i =0; 
@@ -32,7 +32,7 @@ public class findMissing268 {
         }
     
         public static void swapp(int arr[] , int i, int j){
-            int temp = arr[i];
+             int temp = arr[i];
                 arr[i] =arr[j];
                 arr[j] = temp;
         }

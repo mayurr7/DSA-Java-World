@@ -16,7 +16,7 @@ public class cyclicSort {
                     swap(arr, i, correctIndex);
             }else{
                 i++;
-                }
+            }
        }
     }
 

@@ -1,5 +1,6 @@
 //https://leetcode.com/problems/find-the-highest-altitude/submissions/1432096446/
 package Array;
+
 /**
  * highstAltitude1732
  */

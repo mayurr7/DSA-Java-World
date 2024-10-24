@@ -2,7 +2,7 @@ package Strings;
 
 public class checkIfPangram1832 {
     public static void main(String[] args) {
-        String sentence = "thequickbrownfoxjumpsov";
+        String sentence = "thequickbrownfoxjumpsoverthelazydog";
         System.out.println(checkIfPangram(sentence));
     }
     public static boolean checkIfPangram(String sentence) {

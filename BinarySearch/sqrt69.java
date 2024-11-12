@@ -2,7 +2,7 @@ package BinarySearch;
 
 public class sqrt69 {
     public static void main(String[] args) {
-        System.out.println(mySqrt(26));
+        System.out.println(mySqrt(9));
     }
     public static int mySqrt(int x) {
         if(x == 0) return 0;

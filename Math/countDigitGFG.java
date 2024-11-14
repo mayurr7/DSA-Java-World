@@ -11,8 +11,8 @@ public class countDigitGFG {
         while (m > 0) {
 
             int lastDigit = m % 10;
-            if(lastDigit !=0 && n % lastDigit == 0){
-                count ++;
+            if (lastDigit != 0 && n % lastDigit == 0) {
+                count++;
             }
             m = m / 10;
 

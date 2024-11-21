@@ -2,11 +2,11 @@ package Recursion;
 
 public class factoriaal {
     public static void main(String[] args) {
-        System.out.println(factor(5));
+        System.out.println(factor(6));
     }
 
     static int factor(int n) {
-        if (n <= 10.) {
+        if (n == 1) {
             return 1;
         }
 

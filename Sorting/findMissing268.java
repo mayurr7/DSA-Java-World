@@ -3,7 +3,7 @@ package Sorting;
 
 public class findMissing268 {
     public static void main(String[] args) {
-        int arr[] ={0,1};
+        int arr[] ={0,2,1,4};
         System.out.println(missingNumber(arr));
     }
 

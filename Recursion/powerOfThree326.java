@@ -1,6 +1,6 @@
 package Recursion;
 
-public class powerOfThree {
+public class powerOfThree326 {
     public static void main(String[] args) {
         System.out.println(isPowerOfThree(45));
     }

@@ -8,7 +8,7 @@ public class reverseWord151 {
 
     public static String reverseWords(String s) {
         s = s.trim();
-        String[] words = s.split(" ");
+        String[] words = s.split("\\s+");
 
         StringBuilder sb = new StringBuilder();
 

@@ -1,7 +1,4 @@
 package Strings;
-
-import java.util.Arrays;
-
 public class largestOddString1903 {
     public static void main(String[] args) {
        String num = "5932";

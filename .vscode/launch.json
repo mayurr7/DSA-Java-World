@@ -1,0 +1,280 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "bloomDay1482",
+            "request": "launch",
+            "mainClass": "BinarySearch.bloomDay1482",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "subStrings",
+            "request": "launch",
+            "mainClass": "Strings.subStrings",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "twoSum1",
+            "request": "launch",
+            "mainClass": "Hashing.twoSum1",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "countNum",
+            "request": "launch",
+            "mainClass": "Hashing.countNum",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "oddValue1252",
+            "request": "launch",
+            "mainClass": "twoDArray.oddValue1252",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "reverseList206",
+            "request": "launch",
+            "mainClass": "LinkedList.reverseList206",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "smallestDivisor1283",
+            "request": "launch",
+            "mainClass": "BinarySearch.smallestDivisor1283",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "stringMatching1408",
+            "request": "launch",
+            "mainClass": "Strings.stringMatching1408",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "getCountGFG",
+            "request": "launch",
+            "mainClass": "LinkedList.getCountGFG",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "insertAtEndGFG",
+            "request": "launch",
+            "mainClass": "LinkedList.insertAtEndGFG",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "titleToNumber171",
+            "request": "launch",
+            "mainClass": "Strings.titleToNumber171",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "minEatingSpeed875",
+            "request": "launch",
+            "mainClass": "Array.minEatingSpeed875",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "converArr2LL",
+            "request": "launch",
+            "mainClass": "LinkedList.converArr2LL",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "reverseWords557",
+            "request": "launch",
+            "mainClass": "Strings.reverseWords557",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "reverseStr541",
+            "request": "launch",
+            "mainClass": "Strings.reverseStr541",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "reverseString344",
+            "request": "launch",
+            "mainClass": "Strings.reverseString344",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "judgeCircle657",
+            "request": "launch",
+            "mainClass": "Strings.judgeCircle657",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "numOfStrings1967",
+            "request": "launch",
+            "mainClass": "Strings.numOfStrings1967",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "decryptString1309",
+            "request": "launch",
+            "mainClass": "Strings.decryptString1309",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "halvesAreAlike1704",
+            "request": "launch",
+            "mainClass": "Strings.halvesAreAlike1704",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "arrayStringsAreEqual1662",
+            "request": "launch",
+            "mainClass": "Strings.arrayStringsAreEqual1662",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "toLowerCase709",
+            "request": "launch",
+            "mainClass": "Strings.toLowerCase709",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "waysToSplitArray2270",
+            "request": "launch",
+            "mainClass": "Array.waysToSplitArray2270",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "cyclicSort",
+            "request": "launch",
+            "mainClass": "Sorting.cyclicSort",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.bubbleSort",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "sortSentence1859",
+            "request": "launch",
+            "mainClass": "Strings.sortSentence1859",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "countMatchingRules1773",
+            "request": "launch",
+            "mainClass": "ArrayList.countMatchingRules1773",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "interpret1667",
+            "request": "launch",
+            "mainClass": "Strings.interpret1667",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "restoreString1528",
+            "request": "launch",
+            "mainClass": "Strings.restoreString1528",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "rotateString796",
+            "request": "launch",
+            "mainClass": "Strings.rotateString796",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "isIsomorphic205",
+            "request": "launch",
+            "mainClass": "Strings.isIsomorphic205",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "findeLetter744",
+            "request": "launch",
+            "mainClass": "BinarySearch.findeLetter744",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "longestPrefix14",
+            "request": "launch",
+            "mainClass": "Strings.longestPrefix14",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "largestOddString1903",
+            "request": "launch",
+            "mainClass": "Strings.largestOddString1903",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "validAnagram242",
+            "request": "launch",
+            "mainClass": "Strings.validAnagram242",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "reverseWord151",
+            "request": "launch",
+            "mainClass": "Strings.reverseWord151",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "rotateArr189",
+            "request": "launch",
+            "mainClass": "Array.rotateArr189",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}

@@ -23,8 +23,8 @@ public class addNodeStart {
         }     
 
            
-            newNode.next = head;
-            head.prev = newNode;
+        newNode.next = head;
+        head.prev = newNode;
          return newNode;
 
     }

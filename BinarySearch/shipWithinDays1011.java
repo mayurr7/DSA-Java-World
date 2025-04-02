@@ -7,7 +7,7 @@ public class shipWithinDays1011 {
     }
 
     public static int shipWithinDays(int[] weights, int days) {
-        int max = 0;
+        int max = 0;1
         int sum = 0;
         for(int num: weights){
             max = Math.max(num, max);

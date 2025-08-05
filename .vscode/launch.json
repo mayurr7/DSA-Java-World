@@ -6,6 +6,106 @@
     "configurations": [
         {
             "type": "java",
+            "name": "factorialNum",
+            "request": "launch",
+            "mainClass": "Recursion.factorialNum",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "practice2",
+            "request": "launch",
+            "mainClass": "practice2",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "fiboonachiNum",
+            "request": "launch",
+            "mainClass": "Recursion.fiboonachiNum",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "name": "Attach",
+            "port": 9229,
+            "request": "attach",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "Patterns.pattern1",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "addNodeStart",
+            "request": "launch",
+            "mainClass": "LinkedList.DoublyLL.addNodeStart",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "addNodeDLLgfg",
+            "request": "launch",
+            "mainClass": "LinkedList.DoublyLL.addNodeDLLgfg",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "isPalindromeSentence125",
+            "request": "launch",
+            "mainClass": "Strings.isPalindromeSentence125",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "arr2DLL",
+            "request": "launch",
+            "mainClass": "LinkedList.DoublyLL.arr2DLL",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "createDLL",
+            "request": "launch",
+            "mainClass": "LinkedList.DoublyLL.createDLL",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "kThMissing1539",
+            "request": "launch",
+            "mainClass": "BinarySearch.kThMissing1539",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "searchKeyGFG",
+            "request": "launch",
+            "mainClass": "LinkedList.searchKeyGFG",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "majorityElement229",
+            "request": "launch",
+            "mainClass": "Array.majorityElement229",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
+            "name": "shipWithinDays1011",
+            "request": "launch",
+            "mainClass": "BinarySearch.shipWithinDays1011",
+            "projectName": "DSA-Java-World_851ef5fb"
+        },
+        {
+            "type": "java",
             "name": "bloomDay1482",
             "request": "launch",
             "mainClass": "BinarySearch.bloomDay1482",
